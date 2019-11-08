@@ -9,6 +9,6 @@
 
 <h3>Séance du Vendredi 8 Novembre 2019 </h3>
 
-- Création du README et de sa description
+- Création du README et de sa description + sa traduction
 - Appropriation de github
 - Elaboration de l'introduction du cahier des charges 

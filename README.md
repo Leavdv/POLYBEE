@@ -9,8 +9,8 @@
 
 <h2> Project description </h2>
 
-L’objectif de ce projet est d’assurer la surveillance, à distance, de colonie d’abeilles (ruches) dans le but d’améliorer la gestion des récoltes. 
-Plus précisément notre parti porte sur le développement d'une carte d'alimantion pour les modules internes embarquant des capteurs. Nous devons ainsi pouvoir recharger des batteries LiFe grâce à un panneau solaire afin de gérer au mieux l'autonomie de chaque ruche.
-Nous devons également faire une carte pour la liaison entre les données reçues par chaque capteur du rucher. Ce que nous appelons la Gateway qui enverra toutes les valeurs vers une base de données consultables à distance.
+L’objectif de ce projet est d’assurer la surveillance, à distance, de colonies d’abeilles (ruches) dans le but d’améliorer la gestion des récoltes. 
+Plus précisément notre partie porte sur le développement d'une carte d'alimentation pour les modules internes embarquant des capteurs. Nous devons ainsi pouvoir recharger des batteries LiFe grâce à un panneau photovoltoïque afin de gérer au mieux l'autonomie de chaque ruche.
+Nous devons également faire une carte pour la liaison entre les données reçues par chaque capteur du rucher*. Ce que nous appelons la Gateway est la carte qui enverra toutes les valeurs vers une base de données consultables à distance.
 
 *Le regroupement de ruches est appelé un rucher. 

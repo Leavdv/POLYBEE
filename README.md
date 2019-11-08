@@ -9,8 +9,6 @@
 
 <h2> Project description </h2>
 
-L’objectif de ce projet est d’assurer la surveillance, à distance, de colonies d’abeilles (ruches) dans le but d’améliorer la gestion des récoltes. 
-Plus précisément notre partie porte sur le développement d'une carte d'alimentation pour les modules internes embarquant des capteurs. Nous devons ainsi pouvoir recharger des batteries LiFe grâce à un panneau photovoltoïque afin de gérer au mieux l'autonomie de chaque ruche.
-Nous devons également faire une carte pour la liaison entre les données reçues par chaque capteur du rucher*. Ce que nous appelons la Gateway est la carte qui enverra toutes les valeurs vers une base de données consultables à distance.
+The objective of this project is to provide remote monitoring of bee colonies (hives) in order to improve crop management. More precisely, our part deals with the development of a power supply board for internal modules with sensors. We must therefore be able to recharge LiFe batteries thanks to a photovoltaic panel in order to manage the autonomy of each hive as well as possible. We must also make a map for the link between the data received by each sensor in the apiary*. What we call the Gateway is the card that will send all values to a remotely searchable database.
 
-*Le regroupement de ruches est appelé un rucher. 
+*The grouping of hives is called an apiary.

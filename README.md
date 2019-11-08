@@ -5,7 +5,7 @@
 
 <h2> Contributors </h2>
 
-@LeaVdv, @Slyv06, @golddogh, @Bees
+@LeaVdv, @Slyv06, @golddogh, @Nicolas-Charpentier, @Bees
 
 <h2> Project description </h2>
 

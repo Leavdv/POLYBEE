@@ -1,4 +1,4 @@
-//@Author Nicolas CHARPENTIER
+//Auth@r Nicolas CHARPENTIER
 
 
 <h2> Cahier de suivi du projet PolyBee </h2>

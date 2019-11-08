@@ -14,5 +14,6 @@ recherche de composants
 <h3>Séance du 08/11/2019 </h3>
 
   Apprentissange Github
+  
   Finalisation du cahier des charges: partie Alimentation & Protocole
 

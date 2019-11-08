@@ -7,7 +7,7 @@
 
 Pilotage de la séance Brainstorming
 
-<h3>Inter-séance<h3>
+<h3>Inter-séance</h3>
   
 recherche de composants
  

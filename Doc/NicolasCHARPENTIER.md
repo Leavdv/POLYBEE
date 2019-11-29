@@ -12,3 +12,7 @@
 - Création du README et de sa description + sa traduction
 - Appropriation de github
 - Elaboration de l'introduction du cahier des charges 
+
+<h3>Séance du Vendredi 29 Novembre 2019 </h3>
+
+-Création du Gantt sur MS project 

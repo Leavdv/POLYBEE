@@ -11,3 +11,8 @@
 - Mise en forme du document.
 
 <h3>Séance du Vendredi 29 Novembre 2019 </h3>
+
+- Recherche de modules pour la gestion de la batterie et du panneau photovoltaïque.
+- Vérification du MS Project.
+
+<h3>Séance du Vendredi 19 Décembre 2019 </h3>

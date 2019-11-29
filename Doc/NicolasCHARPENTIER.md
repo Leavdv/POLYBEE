@@ -15,4 +15,4 @@
 
 <h3>Séance du Vendredi 29 Novembre 2019 </h3>
 
--Création du Gantt sur MS project 
+- Création du Gantt sur MS project 

@@ -16,4 +16,12 @@ recherche de composants
   Apprentissage Github
   
   Finalisation du cahier des charges: partie Alimentation & Protocole
+  
+  Installation des modules IDE arduino pour ESP32
 
+<h3>séance du 29/11/2019</h3>
+  Recherche et test des librairies utiles à notre projet
+    - Wifi
+    - BLE
+    - LoRa
+    - LCD OLED

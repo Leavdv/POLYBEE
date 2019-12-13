@@ -28,5 +28,5 @@ recherche de composants
 
 <h3>séance du 13/12/2019 </h3>
 
-  Trade-off comparatif des différents protocoles orientés IoT utilisables pour notre projet
+  Trade-off comparatif des différents protocoles orientés IoT utilisables pour notre projet: le websocket sera utilisé
   

@@ -15,4 +15,10 @@
 - Recherche de modules pour la gestion de la batterie et du panneau photovoltaïque.
 - Vérification du MS Project.
 
+<h3>Séance du Vendredi 13 Décembre 2019 </h3>
+
+- Recherche indicateur de capacité de batterie sur RS
+
 <h3>Séance du Vendredi 19 Décembre 2019 </h3>
+
+A faire : lire le tableau du composant, commencer les essais sur labdeck avec Nico

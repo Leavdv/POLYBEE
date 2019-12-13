@@ -1,1 +1,9 @@
 https://projetsdiy.fr/programmer-cartes-esp32-ide-arduino-macos-windows-arm-raspberry/#Desinstaller_l8217ancienne_librairie_ESP32
+
+installer ce lien dans IDE arduino: (preferences gestionnaire URL) 
+https://dl.espressif.com/dl/package_esp32_index.json
+
+
+OU 
+
+copier tous les dossier presents dans Librairies vers le dossier librairies de l'ide: https://github.com/espressif/arduino-esp32

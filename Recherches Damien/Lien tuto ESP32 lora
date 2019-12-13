@@ -3,7 +3,18 @@ https://projetsdiy.fr/programmer-cartes-esp32-ide-arduino-macos-windows-arm-rasp
 installer ce lien dans IDE arduino: (preferences gestionnaire URL) 
 https://dl.espressif.com/dl/package_esp32_index.json
 
+puis dans outils/Type de carte/Gestionnaire de carte ajouter esp32 
+
 
 OU 
 
 copier tous les dossier presents dans Librairies vers le dossier librairies de l'ide: https://github.com/espressif/arduino-esp32
+
+
+
+
+/////////////Librairie Lora//////////////////
+
+Librairie Lora:
+
+https://github.com/sandeepmistry/arduino-LoRa

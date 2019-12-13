@@ -16,3 +16,9 @@
 <h3>Séance du Vendredi 29 Novembre 2019 </h3>
 
 - Création du Gantt sur MS project 
+
+<h3>Séance du Vendredi 13 Décembre 2019 </h3>
+
+- Choix des composants pour la conception de la carte d'alimentation + panneau solaire 
+- Appropriation de la doc du composant que nous allons utiliser (bq24650) 
+- Rédaction d'un court fichier de synthèse à propos de la documentation

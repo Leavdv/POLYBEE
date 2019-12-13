@@ -1,0 +1,11 @@
+Librairie ESP32:
+Cette librairie est disponible directement en ajaoutant le lien de son fournisseur sur arduino. 
+Il existe une derniere version mais est peu recommandée car encore beta 
+
+Librairie Lora:
+
+Plusieurs librairies sont dispos:
+
+Une librairie pour le module lora 
+RadioLib
+Lora 

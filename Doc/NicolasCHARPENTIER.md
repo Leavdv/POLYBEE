@@ -24,5 +24,5 @@
 
 <h3>Séance du Vendredi 10 Janvier 2020 </h3>
 
-- Suite de la rédaction du fichier de synthèse
+- Suite de la rédaction du fichier de synthèse (Hardware/Synthèse-qd24650-FR_v1.2)
 - Choix des composants pour la conception de la carte d'alimentation + panneau solaire 

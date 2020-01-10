@@ -24,6 +24,8 @@ copier tous les dossier presents dans Librairies vers le dossier librairies de l
       (à mettre dans le dossier)
       
       
+On utilisera la librairie Lora https://www.arduinolibraries.info/libraries/lo-ra                     
+      Pour lire le CRC qui indique si erreur message on doit lire le bit 1 du registre 0x3f Le bit crcOK est à 1 quand OK
 
 
 

@@ -15,7 +15,7 @@
 
 <h3>Séance du Vendredi 29 Novembre 2019 </h3>
 
-- Création du Gantt sur MS project 
+- Création du Gantt sur MS project ([fichier](https://github.com/Leavdv/POLYBEE_GATEWAY/raw/master/Gantt-POLYBEE.mpp))
 
 <h3>Séance du Vendredi 13 Décembre 2019 </h3>
 

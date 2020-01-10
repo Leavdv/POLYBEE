@@ -1,0 +1,7 @@
+Configuration des Pin:
+
+const int csPin = 18;          // LoRa radio chip select
+const int resetPin = 14;       // LoRa radio reset
+const int irqPin = 26;         // change for your board; must be a hardware interrupt pin
+
+SPI à redefinir

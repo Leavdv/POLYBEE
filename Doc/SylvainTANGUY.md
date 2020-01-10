@@ -35,6 +35,10 @@ recherche de composants
   Revue de mise en oeuvre websocket:
     - Nécessité d'installer des modules Apache mod_proxy_wstunnel et de composer (outil de téléchargement PHP de dépendances)
     - Le module apache configuré devra rediriger les requêtes ws:// ou wss:// vers le serveur websocket interne
+ 
+ 
+ 
+ <h3>Séance du Vendredi 10 Janvier 2020 (Bonne année!) </h3>
   => La mise en oeuvre de ce type de service est trop complexe pour être proposée sur ce projet (vouée à être utilisée sur des providers gratuits, donc sans installations supplémentaires)
   
  => L'étude portera donc plus simplement sur un service PHP simple.

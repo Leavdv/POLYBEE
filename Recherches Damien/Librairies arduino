@@ -26,6 +26,7 @@ copier tous les dossier presents dans Librairies vers le dossier librairies de l
       
 On utilisera la librairie Lora https://www.arduinolibraries.info/libraries/lo-ra    
 ou celle ci:               ESP8266 and ESP32 driver fo SSD
+           +elle:          Adafruit GFX Library to the display graphics
       Pour lire le CRC qui indique si erreur message on doit lire le bit 1 du registre 0x3f Le bit crcOK est à 1 quand OK
 
 

@@ -19,6 +19,10 @@
 
 - Recherche indicateur de capacité de batterie sur RS
 
-<h3>Séance du Vendredi 19 Décembre 2019 </h3>
+<h3>Séance du Vendredi 10 Janvier 2020 </h3>
 
-A faire : lire le tableau du composant, commencer les essais sur labdeck avec Nico
+- Etude du composant gestion de la batterie
+
+<h3>Séance du Vendredi 17 Janvier 2020 </h3>
+
+A faire : commencer les essais sur labdeck avec Nico

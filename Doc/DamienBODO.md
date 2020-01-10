@@ -19,3 +19,8 @@
 <h3>Séance du Vendredi 13 Decembre 2019 </h3>
 
 - Recherche et definition des librairie à utiliser avec la carte TTGO 
+
+<h3>Séance du Vendredi 10 Janvier 2020 </h3>
+
+- Test des librairie à utiliser avec la carte TTGO 
+-Definition du registre à lire pour verifier l'tat du crc

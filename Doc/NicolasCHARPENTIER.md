@@ -3,7 +3,7 @@
 
 <h2> Cahier de suivi du projet PolyBee </h2>
 
-<h3>Séance du Vendredi 25 Octobre </h3>
+<h3>Séance du Vendredi 25 Octobre 2019</h3>
 
 - Brainstorming autour du projet (Alimentation + Gateway)
 
@@ -19,6 +19,10 @@
 
 <h3>Séance du Vendredi 13 Décembre 2019 </h3>
 
-- Choix des composants pour la conception de la carte d'alimentation + panneau solaire 
 - Appropriation de la doc du composant que nous allons utiliser (bq24650) 
 - Rédaction d'un court fichier de synthèse à propos de la documentation
+
+<h3>Séance du Vendredi 10 Janvier 2020 </h3>
+
+- Suite de la rédaction du fichier de synthèse
+- Choix des composants pour la conception de la carte d'alimentation + panneau solaire 

@@ -19,7 +19,7 @@
 
 <h3>Séance du Vendredi 13 Décembre 2019 </h3>
 
-- Appropriation de la doc du composant que nous allons utiliser (bq24650) 
+- Appropriation de la doc du composant que nous allons utiliser ([bq24650](https://github.com/Leavdv/POLYBEE_GATEWAY/raw/master/Hardware/slusa75a.pdf)) 
 - Rédaction d'un court fichier de synthèse à propos de la documentation
 
 <h3>Séance du Vendredi 10 Janvier 2020 </h3>

@@ -91,3 +91,5 @@ meteo
       Test des scripts PHP:
       http://rucher.polytech.unice.fr/~rucher/mesure_ext.php?masse=1&tare=2&temp_capteur=3&vbat=2.3
       
+ <h3>interséance  </h3>
+ pour l'utilisation de process concurents (ex: recevoir un message LORA pendant qu'on envoie des données au serveur), il y a possibilité d'utiliser les librairies FreeRTOS (https://icircuit.net/esp32-introduction-freertos/1297)

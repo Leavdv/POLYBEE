@@ -95,5 +95,9 @@ meteo
  pour l'utilisation de process concurents (ex: recevoir un message LORA pendant qu'on envoie des données au serveur), il y a possibilité d'utiliser les librairies FreeRTOS (https://icircuit.net/esp32-introduction-freertos/1297)
 
 13-01-2020: compteur de coulombs low power: http://www.ti.com/product/BQ26231#
+Le modele ci apres dispose d'un compteur, d'une interface i2c et de sorties de niveau à led sur pression d'un bouton
+
+https://datasheets.maximintegrated.com/en/ds/MAX17263.pdf
+
 
 

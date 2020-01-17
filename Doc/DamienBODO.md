@@ -24,3 +24,8 @@
 
 - Test des librairie à utiliser avec la carte TTGO 
 -Definition du registre à lire pour verifier l'tat du crc
+
+<h3>Séance du Vendredi 17 Janvier 2020 </h3>
+
+-Echange de message et test de reconnaissance de l'envoyeur
+-test du CRC avec 3 cartes

@@ -25,4 +25,7 @@
 
 <h3>Séance du Vendredi 17 Janvier 2020 </h3>
 
+- Fonctionnement du pack thermistor
 
+A faire : Mettre a jour le Gant 
+Passer commande des composants

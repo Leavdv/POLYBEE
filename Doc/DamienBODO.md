@@ -28,4 +28,4 @@
 <h3>Séance du Vendredi 17 Janvier 2020 </h3>
 
 -Echange de message et test de reconnaissance de l'envoyeur
--test du CRC avec 3 cartes
+-test du CRC avec 3 cartes (envoie d'un message reconnaissance du message pr deux carte qui repondent en m temps)

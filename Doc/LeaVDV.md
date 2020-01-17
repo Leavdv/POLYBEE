@@ -25,4 +25,4 @@
 
 <h3>Séance du Vendredi 17 Janvier 2020 </h3>
 
-A faire : commencer les essais sur labdeck avec Nico
+

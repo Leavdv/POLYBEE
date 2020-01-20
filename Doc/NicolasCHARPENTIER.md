@@ -30,3 +30,8 @@
 <h3>Séance du Vendredi 17 Janvier 2020 </h3>
 
 - Choix du composant permettant l'affichage de la charge de la batterie ([MAX17263](https://github.com/Leavdv/POLYBEE_GATEWAY/raw/master/Hardware/MAX17263-1385558.pdf))
+
+<h3>Séance du Lundi 20 Janvier 2020 </h3>
+
+- Etude du composant MAX17263
+- Création du Eagle, commencement du schématique pour la carte d'alimentation

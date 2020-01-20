@@ -26,3 +26,7 @@
 
 - Suite de la rédaction du fichier de synthèse ([Synthèse-qd24650-FR_v1.2](https://github.com/Leavdv/POLYBEE_GATEWAY/raw/master/Hardware/Synth%C3%A8se-bq24650-FR_v1.2.docx))
 - Choix des composants pour la conception de la carte d'alimentation + panneau solaire 
+
+<h3>Séance du Vendredi 17 Janvier 2020 </h3>
+
+- Choix du composant permettant l'affichage de la charge de la batterie ([MAX17263](https://github.com/Leavdv/POLYBEE_GATEWAY/raw/master/Hardware/MAX17263-1385558.pdf))

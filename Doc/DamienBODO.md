@@ -34,3 +34,9 @@
 
 -Continuer test CRC
 -pogramme de constrution de trame
+
+<h3>Séance du Lundi 24 Janvier 2020 </h3>
+
+-Test CRC non validé
+-avancé sur pogramme de constrution decodage de trame
+

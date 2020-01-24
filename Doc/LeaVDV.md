@@ -27,5 +27,12 @@
 
 - Fonctionnement du pack thermistor
 
+<h3>Séance du Vendredi 24 Janvier 2020 </h3>
+
+- Listage des besoins en composants
+- Mise à jour du Gant
+- Point sur les questions à éclaircir
+
+
 A faire : Mettre a jour le Gant 
 Passer commande des composants

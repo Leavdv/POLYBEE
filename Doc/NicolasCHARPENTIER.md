@@ -35,3 +35,8 @@
 
 - Etude du composant MAX17263
 - Création du Eagle, commencement du schématique pour la carte d'alimentation
+
+<h3>Séance du Vendredi 24 Janvier 2020 </h3>
+
+- Poursuite de schematic d'assemblage des composants sur Eagle
+- Etude de composants associés à la carte

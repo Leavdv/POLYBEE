@@ -3,7 +3,7 @@
 
 <h2> Cahier de suivi du projet PolyBee </h2>
 
-<h3>Séance du Vendredi 25 Octobre </h3>
+<h3>01-Séance du Vendredi 25 Octobre </h3>
 
 Pilotage de la séance Brainstorming
 
@@ -19,14 +19,14 @@ recherche de composants
   
   Installation des modules IDE arduino pour ESP32
 
-<h3>séance du 29/11/2019</h3>
+<h3>02- séance du 29/11/2019</h3>
   Recherche et test des librairies utiles à notre projet
     - Wifi
     - BLE
     - LoRa
     - LCD OLED
 
-<h3>séance du 13/12/2019 </h3>
+<h3>03- séance du 13/12/2019 </h3>
 
   Trade-off comparatif des différents protocoles orientés IoT utilisables pour notre projet: le websocket sera utilisé
  
@@ -38,7 +38,7 @@ recherche de composants
  
  
  
- <h3>Séance du Vendredi 10 Janvier 2020 (Bonne année!) </h3>
+ <h3>04- Séance du Vendredi 10 Janvier 2020 (Bonne année!) </h3>
   => La mise en oeuvre de ce type de service est trop complexe pour être proposée sur ce projet (vouée à être utilisée sur des providers gratuits, donc sans installations supplémentaires)
   
  => L'étude portera donc plus simplement sur un service PHP simple.
@@ -100,4 +100,11 @@ Le modele ci apres dispose d'un compteur, d'une interface i2c et de sorties de n
 https://datasheets.maximintegrated.com/en/ds/MAX17263.pdf
 
 
+<h3>05- séance du 17/01/2020</h3>
+Poursuite du debug des scripts PHP
 
+<h3>06- séance du 20/01/2020</h3>
+Poursuite du debug des scripts PHP
+
+<h3>07-séance du 24/01/2020</h3>
+Poursuite du debug des scripts PHP

@@ -108,3 +108,6 @@ Poursuite du debug des scripts PHP
 
 <h3>07-séance du 24/01/2020</h3>
 Poursuite du debug des scripts PHP
+
+<h3>inter-séance 31/01/2020</h3>
+Préparation de la présentation

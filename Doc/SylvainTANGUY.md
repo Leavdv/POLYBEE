@@ -28,7 +28,7 @@ recherche de composants
 
 <h3>03- séance du 13/12/2019 </h3>
 
-  Trade-off comparatif des différents protocoles orientés IoT utilisables pour notre projet: le websocket sera utilisé
+  Trade-off comparatif des différents protocoles orientés IoT utilisables pour notre projet: le websocket est interessant
  
 <h3>Inter-séance</h3>
   Test du package applicatif TTGO V2 => fonctionnel

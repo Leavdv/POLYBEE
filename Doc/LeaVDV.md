@@ -20,25 +20,30 @@
 
 <h3>04 - Séance du Vendredi 13 Décembre 2019 </h3>
 
-- Recherche indicateur de capacité de batterie sur RS
+- Etude du système d'alimentation à découpage du composant bq24650
+- Participation à la rédaction du fichier de synthèse
 
 <h3>05 - Séance du Vendredi 10 Janvier 2020 </h3>
 
-- Etude du composant gestion de la batterie
+- Choix des composants pour le fonctionnement de la carte d'alimentation autour du bq24650
 
 <h3>06 - Séance du Vendredi 17 Janvier 2020 </h3>
 
-- Fonctionnement du pack thermistor
+- Choix du composant de l'indication de charge de la batterie LiFePO4
+- Etude de la documentation du MAX17263 choisi
 
 <h3>07 - Séance du Lundi 20 Janvier 2020 </h3>
 
-- 
+- Etude des composants associé au fonctionnement du MAX17263
+- Etude du pack Thermistance
 
 <h3>08 - Séance du Vendredi 24 Janvier 2020 </h3>
 
 - Listage des besoins en composants
 - Mise à jour du Gant
 - Point sur les questions à éclaircir
+
+<h3>09 - Séance du Vendredi 7 Février 2020 </h3>
 
 
 A faire : Mettre a jour le Gant 

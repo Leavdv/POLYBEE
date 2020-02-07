@@ -40,3 +40,8 @@
 
 - Poursuite de schematic d'assemblage des composants sur Eagle
 - Etude de composants associés à la carte
+
+<h3>Séance du Vendredi 7 Février 2020 </h3>
+
+- Préparation pour la présentation 
+

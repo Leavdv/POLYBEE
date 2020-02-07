@@ -41,3 +41,7 @@
 -Test CRC non validé
 -avancé sur pogramme de constrution decodage de trame
 
+<h3>08 - Séance du Vendredi 7 Fevrier 2020 </h3>
+
+-Presentation 
+

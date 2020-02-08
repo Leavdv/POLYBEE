@@ -111,3 +111,12 @@ Poursuite du debug des scripts PHP
 
 <h3>inter-séance 31/01/2020</h3>
 Préparation de la présentation
+
+<h3>08-séance du 07/02/2020</h3>
+Finalisation des scripts PHP
+Recherches pour échanges des codes standardisés HTML entre la gateway et le serveur:
+ Côté gateway : https://techtutorialsx.com/2017/05/19/esp32-http-get-requests/
+ Côté serveur : https://stackoverflow.com/questions/3258634/php-how-to-send-http-response-code
+ 
+<h3>09-séance du 08/02/2020</h3>
+Présentations

@@ -45,3 +45,7 @@
 
 -Presentation 
 
+<h3>08 - Séance du Vendredi 14 Fevrier 2020 </h3>
+
+-Test de reconnaissance de Header (MAC+TYPE)
+

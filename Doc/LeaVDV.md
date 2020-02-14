@@ -45,6 +45,12 @@
 
 <h3>09 - Séance du Vendredi 7 Février 2020 </h3>
 
+- Préparation de la présentation, mise en commun des infos.
 
-A faire : Mettre a jour le Gant 
-Passer commande des composants
+<h3>10 - Séance du Samedi 8 Février 2020 </h3>
+
+- Présentation
+
+<h3>11 - Séance du Vendredi 14 Février 2020 </h3>
+
+- Schéma Eagle

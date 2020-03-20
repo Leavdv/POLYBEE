@@ -49,3 +49,8 @@
 
 -Test de reconnaissance de Header (MAC+TYPE)
 
+
+<h3>08 - Séance du Vendredi 20 Mars 2020 </h3>
+
+-revue du programme de test de CRC
+-structure du programme de lecture de trame

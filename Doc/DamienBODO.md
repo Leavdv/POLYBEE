@@ -55,3 +55,15 @@
 -revue du programme de test de CRC
 
 -structure du programme de lecture de trame
+
+<h3>08 - Séance du Vendredi 17 Avril 2020 </h3>
+
+-revue du programme de test de CRC
+
+-Schematisation du mode de lecture trame 
+
+-programme de lecture trame terminé
+
+-programme d'accusé reception 
+
+-Completion du Excel de format de trame

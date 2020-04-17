@@ -60,3 +60,11 @@
 <h3>13 - Séance du Vendredi 17 Avril 2020 </h3>
 
 - 
+
+<h3>13 - Séance du Mercredi 22 Avril 2020 </h3>
+
+- 
+
+<h3>13 - Séance du Samedi 30 Mai 2020 </h3>
+
+- 

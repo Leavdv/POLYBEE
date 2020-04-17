@@ -45,3 +45,18 @@
 
 - Préparation pour la présentation 
 
+<h3>09 - Séance du Samedi 8 Février 2020 </h3>
+
+- Présentation
+
+<h3>09 - Séance du Vendredi 14 Février 2020 </h3>
+
+- Retravail complet sur le Shématic EAGLE
+
+<h3>09 - Séance du Vendredi 20 Mars 2020 </h3>
+
+- Calcul des différents valeur des résistance de notre montage
+
+<h3>09 - Séance du Vendredi 17 Avril 2020 </h3>
+
+- 

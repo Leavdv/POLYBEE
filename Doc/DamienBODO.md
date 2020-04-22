@@ -67,3 +67,7 @@
 -programme d'accusé reception 
 
 -Completion du Excel de format de trame
+
+<h3>08 - Séance du Mercredi 22 Avril 2020 </h3>
+
+-test des codes ecrits précedement et correction des bugs

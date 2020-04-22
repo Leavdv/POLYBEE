@@ -18,7 +18,7 @@ copier tous les dossier presents dans Librairies vers le dossier librairies de l
 
 /////////////Librairie Lora//////////////////
 
-      bien installer le plug-in CH340
+      bien installer le drivers pour CP210X
 
       https://www.arduinolibraries.info/libraries/lo-ra 
       LoRa Sending and receiving  by SandeepMystry

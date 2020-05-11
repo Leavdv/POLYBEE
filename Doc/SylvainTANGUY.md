@@ -120,3 +120,8 @@ Recherches pour échanges des codes standardisés HTML entre la gateway et le se
  
 <h3>09-séance du 08/02/2020</h3>
 Présentations
+
+<h3>séances en télétravail</h3>
+Suivi communiqué directement sur SLACK:
+Tests d'affichage TTGO V2, WIFI. tests d'éditeur IDE, recherche de solutions pour la configuration wifi.
+
